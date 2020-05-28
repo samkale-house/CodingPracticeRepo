@@ -1,0 +1,6 @@
+.vscode/launch.json
+.vscode/tasks.json
+DelegateDemo/bin/Debug/netcoreapp3.1
+EventDemo/bin/Debug/netcoreapp3.1
+FuncDemo/bin/Debug/netcoreapp3.1
+SingletonDemo/bin/Debug/netcoreapp3.1
