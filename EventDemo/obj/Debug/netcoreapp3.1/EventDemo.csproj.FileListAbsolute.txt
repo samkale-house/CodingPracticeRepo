@@ -1,0 +1,13 @@
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/bin/Debug/netcoreapp3.1/EventDemo
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/bin/Debug/netcoreapp3.1/EventDemo.deps.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/bin/Debug/netcoreapp3.1/EventDemo.runtimeconfig.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/bin/Debug/netcoreapp3.1/EventDemo.runtimeconfig.dev.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/bin/Debug/netcoreapp3.1/EventDemo.dll
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/bin/Debug/netcoreapp3.1/EventDemo.pdb
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/obj/Debug/netcoreapp3.1/EventDemo.csprojAssemblyReference.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/obj/Debug/netcoreapp3.1/EventDemo.AssemblyInfoInputs.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/obj/Debug/netcoreapp3.1/EventDemo.AssemblyInfo.cs
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/obj/Debug/netcoreapp3.1/EventDemo.csproj.CoreCompileInputs.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/obj/Debug/netcoreapp3.1/EventDemo.dll
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/obj/Debug/netcoreapp3.1/EventDemo.pdb
+/home/mrmlabs/Sam_Workspace/SAMLABS/EventDemo/obj/Debug/netcoreapp3.1/EventDemo.genruntimeconfig.cache

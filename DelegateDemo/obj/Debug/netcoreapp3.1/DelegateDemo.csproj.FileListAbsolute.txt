@@ -1,0 +1,13 @@
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/bin/Debug/netcoreapp3.1/DelegateDemo
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/bin/Debug/netcoreapp3.1/DelegateDemo.deps.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/bin/Debug/netcoreapp3.1/DelegateDemo.runtimeconfig.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/bin/Debug/netcoreapp3.1/DelegateDemo.runtimeconfig.dev.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/bin/Debug/netcoreapp3.1/DelegateDemo.dll
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/bin/Debug/netcoreapp3.1/DelegateDemo.pdb
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/obj/Debug/netcoreapp3.1/DelegateDemo.csprojAssemblyReference.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/obj/Debug/netcoreapp3.1/DelegateDemo.AssemblyInfoInputs.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/obj/Debug/netcoreapp3.1/DelegateDemo.AssemblyInfo.cs
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/obj/Debug/netcoreapp3.1/DelegateDemo.csproj.CoreCompileInputs.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/obj/Debug/netcoreapp3.1/DelegateDemo.dll
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/obj/Debug/netcoreapp3.1/DelegateDemo.pdb
+/home/mrmlabs/Sam_Workspace/SAMLABS/DelegateDemo/obj/Debug/netcoreapp3.1/DelegateDemo.genruntimeconfig.cache
