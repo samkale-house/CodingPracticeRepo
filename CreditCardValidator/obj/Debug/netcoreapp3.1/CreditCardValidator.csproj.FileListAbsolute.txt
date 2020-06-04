@@ -1,0 +1,13 @@
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/bin/Debug/netcoreapp3.1/CreditCardValidator
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/bin/Debug/netcoreapp3.1/CreditCardValidator.deps.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/bin/Debug/netcoreapp3.1/CreditCardValidator.runtimeconfig.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/bin/Debug/netcoreapp3.1/CreditCardValidator.runtimeconfig.dev.json
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/bin/Debug/netcoreapp3.1/CreditCardValidator.dll
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/bin/Debug/netcoreapp3.1/CreditCardValidator.pdb
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/obj/Debug/netcoreapp3.1/CreditCardValidator.csprojAssemblyReference.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/obj/Debug/netcoreapp3.1/CreditCardValidator.AssemblyInfoInputs.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/obj/Debug/netcoreapp3.1/CreditCardValidator.AssemblyInfo.cs
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/obj/Debug/netcoreapp3.1/CreditCardValidator.csproj.CoreCompileInputs.cache
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/obj/Debug/netcoreapp3.1/CreditCardValidator.dll
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/obj/Debug/netcoreapp3.1/CreditCardValidator.pdb
+/home/mrmlabs/Sam_Workspace/SAMLABS/CodingPracticeRepo/CreditCardValidator/obj/Debug/netcoreapp3.1/CreditCardValidator.genruntimeconfig.cache
